@@ -63,5 +63,6 @@ void main() {
 	printStack(st1);
 	cout << "Массив 2:" << endl;
 	printStack(st2);
+	cout << "Project has been added in Git repo";
 	system("pause");
 }
